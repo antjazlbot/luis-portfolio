@@ -11,8 +11,6 @@ With my own credentials, an agent could push straight to `master`, force-push, d
 or ship half-finished content live. Asking it not to in a prompt is only a request. I wanted
 the agent to be fast and the limits to live in configuration.
 
-*Rewritten on 2026-11-19 with the details the first version left out.*
-
 ## What an agent with my credentials could do
 
 Each risk below has at least one control that works even if the agent misbehaves:

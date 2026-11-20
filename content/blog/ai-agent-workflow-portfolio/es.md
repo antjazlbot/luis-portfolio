@@ -11,8 +11,6 @@ Con mis propias credenciales, un agente podría hacer push directo a `master`, u
 borrar ramas o publicar contenido a medio terminar. Pedírselo en un prompt es solo una petición.
 Quería un agente rápido y con los límites en la configuración.
 
-*Reescrito el 2026-11-19 con los detalles que la primera versión dejó fuera.*
-
 ## Qué podría hacer un agente con mis credenciales
 
 Cada riesgo de la tabla tiene al menos un control que funciona aunque el agente se porte mal:
